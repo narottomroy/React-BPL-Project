@@ -1,0 +1,92 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bouwlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 850
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Right-Arm Leg Break",
+    "battingStyle": "Right-Handed",
+    "price": 900
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 950
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Left-Arm Fast",
+    "battingStyle": "Left-Handed",
+    "price": 80
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Left-Arm Fast-Medium",
+    "battingStyle": "Left-Handed",
+    "price": 650
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 900
+  },
+  {
+    "playerName": "Ravindra Jadeja",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "India",
+    "playerType": "All-Rounder",
+    "bouwlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 850
+  },
+  {
+    "playerName": "Adil Rashid",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "England",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Left-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 600
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Pakistan",
+    "playerType": "Bowler",
+    "bouwlingStyle": "Left-Arm Fast",
+    "battingStyle": "Left-Handed",
+    "price": 800
+  },
+  {
+    "playerName": "Wanindu Hasaranga",
+    "playerImg": "https://cdn.pixabay.com/photo/2024/04/11/05/29/david-warner-8689228_1280.jpg",
+    "origin": "Sri Lanka",
+    "playerType": "All-Rounder",
+    "bouwlingStyle": "Right-Arm Leg Break",
+    "battingStyle": "Right-Handed",
+    "price": 700
+  }
+]
