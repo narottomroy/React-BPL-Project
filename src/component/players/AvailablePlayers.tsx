@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type { Iplayer } from '../../types/player';
 import PlayerCard from './PlayerCard';
 // import { Interface } from 'readline';

@@ -1,5 +1,5 @@
 
-import React, { useState } from "react";
+import { useState } from "react";
 import type { Iplayer } from "../../types/player";
 import { FaCircleUser } from "react-icons/fa6";
 import type { Dispatch } from "react";
